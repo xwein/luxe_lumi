@@ -6,7 +6,7 @@ import MapSection from "./components/MapSection";
 import BookingSection from "./components/BookingSection";
 
 export const cottagesFeatures = [
-  { icon: "home", title: "Уникальный", description: "дизайн" },
+  { icon: "home", title: "УУникальный", description: "дизайн" },
   {
     icon: "fire",
     title: "Мангал возле",
