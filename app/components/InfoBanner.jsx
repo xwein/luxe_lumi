@@ -31,7 +31,7 @@ export default function FullScreenVideoSection() {
         {/* Video */}
         <video
           ref={videoRef}
-          src="/resort.mp4"
+          src="/resort_comp.mp4"
           muted
           autoPlay
           loop
